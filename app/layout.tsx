@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ivan-ivashchenko.pages.dev"),
+  metadataBase: new URL("https://ivan-ivashchenko-research.chizzarpp.chatgpt.site"),
   title: "Иван Иващенко — биотехнолог и разработчик научного ПО",
   description: "3D-клеточные модели, вирусологические исследования, компьютерное зрение и научное программное обеспечение.",
   openGraph: {
